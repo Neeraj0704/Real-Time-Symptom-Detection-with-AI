@@ -1,0 +1,9 @@
+//place this inside your.vscode folder
+{
+    "java.project.referencedLibraries": [
+      "lib/**/*.jar",
+      "lib/opennlp-tools-<version>.jar",
+      "lib/opennlp-models-<version>.jar"
+    ]
+}
+
